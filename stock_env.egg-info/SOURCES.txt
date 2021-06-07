@@ -1,0 +1,7 @@
+README.md
+setup.py
+stock_env.egg-info/PKG-INFO
+stock_env.egg-info/SOURCES.txt
+stock_env.egg-info/dependency_links.txt
+stock_env.egg-info/requires.txt
+stock_env.egg-info/top_level.txt
